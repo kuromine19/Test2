@@ -2,3 +2,5 @@ jupyterlab
 pandas
 nbclient
 Selenium
+pymongo
+regex
